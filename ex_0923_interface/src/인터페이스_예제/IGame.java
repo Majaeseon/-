@@ -8,7 +8,7 @@ public interface IGame {
 	// 퀴즈를 생성하는 기능
 	public String getQuizMsg();
 	
-	
+
 	// 정답 체크
 	public boolean checkAnswer(int answer);
 	
